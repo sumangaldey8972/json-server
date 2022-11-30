@@ -5,75 +5,75 @@
             "name": "Gertrudis Tatterton",
             "age": 18,
             "email": "gtatterton0@ehow.com",
-            "type":"teacher"
+            "type": "teacher"
         },
         {
             "id": 2,
             "name": "Gail Newbatt",
             "age": 53,
             "email": "gnewbatt1@un.org",
-            "type":"teacher"
+            "type": "teacher"
         },
         {
             "id": 3,
             "name": "Walliw Wilstead",
             "age": 49,
             "email": "wwilstead2@tripadvisor.com",
-            "type":"teacher"
+            "type": "teacher"
         },
         {
             "id": 4,
             "name": "Abran Proback",
             "age": 29,
             "email": "aproback3@theglobeandmail.com",
-            "type":"teacher"
+            "type": "teacher"
         },
         {
             "id": 5,
             "name": "Roda Chappelow",
             "age": 31,
             "email": "rchappelow4@oaic.gov.au",
-            "type":"teacher"
+            "type": "teacher"
         },
         {
             "id": 6,
             "name": "Karney Wylie",
             "age": 22,
             "email": "kwylie5@miitbeian.gov.cn",
-            "type":"Student"
+            "type": "Student"
         },
         {
             "id": 7,
             "name": "Cammi Pimbley",
             "age": 63,
             "email": "cpimbley6@nyu.edu",
-            "type":"Student"
+            "type": "Student"
         },
         {
             "id": 8,
             "name": "Gavra Manning",
             "age": 43,
             "email": "gmanning7@lycos.com",
-            "type":"Student"
+            "type": "Student"
         },
         {
             "id": 9,
             "name": "Zachary Seward",
             "age": 45,
             "email": "zseward8@oracle.com",
-            "type":"Student"
+            "type": "Student"
         },
         {
             "id": 10,
             "name": "Chucho Norssister",
             "age": 20,
             "email": "cnorssister9@mayoclinic.com",
-            "type":"Student"
+            "type": "Student"
         }
     ],
-    "booklist":[
+    "booklist": [
         {
-            "id":1,
+            "id": 1,
             "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
             "book_name": "Harry Potter and the Philosopher's Stone",
             "author": "J. K. Rowling",
@@ -104,6 +104,24 @@
             "publisher": "Bloomsbury",
             "cost": 1499,
             "borrowed": false
+        }
+    ],
+    "newUser": [
+        {
+            "id": 1,
+            "name": "Sumangal Dey",
+            "age": 20,
+            "place": "kolkata",
+            "batch": "FTWEB-15",
+            "profession": "Student"
+        },
+        {
+            "id": 1,
+            "name": "Pusparaj Patel",
+            "age": 25,
+            "place": "Reva",
+            "batch": "FTWEB-16",
+            "profession": "Teacher"
         }
     ]
 }
