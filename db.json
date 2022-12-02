@@ -125,7 +125,7 @@
             "place": "Reva",
             "batch": "FTWEB-16",
             "profession": "Employed",
-            "price": 200,
+            "price": 300,
             "quantity": 1,
             "status": false
         },
@@ -136,7 +136,7 @@
             "place": "Singur",
             "batch": "FTWEB-14",
             "profession": "Student",
-            "price": 200,
+            "price": 400,
             "quantity": 1,
             "status": false
         },
@@ -147,7 +147,7 @@
             "place": "Burdwan",
             "batch": "FTWEB-13",
             "profession": "Employed",
-            "price": 200,
+            "price": 500,
             "quantity": 1,
             "status": false
         },
@@ -158,7 +158,7 @@
             "place": "Gujrat",
             "batch": "FTWEB-14",
             "profession": "Student",
-            "price": 200,
+            "price": 600,
             "quantity": 1,
             "status": false
         },
@@ -169,7 +169,7 @@
             "place": "Delhi",
             "batch": "FTWEB-15",
             "profession": "Employed",
-            "price": 200,
+            "price": 700,
             "quantity": 1,
             "status": false
         },
@@ -191,7 +191,7 @@
             "place": "Mumbai",
             "batch": "FTWEB-13",
             "profession": "Employed",
-            "price": 200,
+            "price": 1200,
             "quantity": 1,
             "status": false
         },
@@ -202,7 +202,7 @@
             "place": "Burdwan",
             "batch": "FTWEB-14",
             "profession": "Student",
-            "price": 200,
+            "price": 2000,
             "quantity": 1,
             "status": false
         },
@@ -213,7 +213,7 @@
             "place": "Mumbai",
             "batch": "FTWEB-15",
             "profession": "Employed",
-            "price": 200,
+            "price": 4000,
             "quantity": 1,
             "status": false
         },
@@ -224,7 +224,7 @@
             "place": "Mumbai",
             "batch": "FTWEB-16",
             "profession": "Student",
-            "price": 200,
+            "price": 1399,
             "quantity": 1,
             "status": false
         },
@@ -235,7 +235,7 @@
             "place": "Mumbai",
             "batch": "FTWEB-13",
             "profession": "Employed",
-            "price": 200,
+            "price": 1599,
             "quantity": 1,
             "status": false
         },
@@ -246,7 +246,7 @@
             "place": "Andheri",
             "batch": "FTWEB-14",
             "profession": "Student",
-            "price": 200,
+            "price": 399,
             "quantity": 1,
             "status": false
         },
@@ -257,7 +257,7 @@
             "place": "Laxmi Chitfund",
             "batch": "FTWEB-15",
             "profession": "Employed",
-            "price": 200,
+            "price": 999,
             "quantity": 1,
             "status": false
         },
@@ -268,7 +268,7 @@
             "place": "Andheri",
             "batch": "FTWEB-16",
             "profession": "Student",
-            "price": 200,
+            "price": 99,
             "quantity": 1,
             "status": false
         },
@@ -279,7 +279,7 @@
             "place": "Andheri",
             "batch": "FTWEB-13",
             "profession": "Employed",
-            "price": 200,
+            "price": 9999,
             "quantity": 1,
             "status": false
         },
@@ -290,7 +290,7 @@
             "place": "Bihar",
             "batch": "FTWEB-13",
             "profession": "Student",
-            "price": 200,
+            "price": 1299,
             "quantity": 1,
             "status": false
         },
@@ -301,7 +301,7 @@
             "place": "Delhi",
             "batch": "FTWEB-14",
             "profession": "Student",
-            "price": 200,
+            "price": 144444,
             "quantity": 1,
             "status": false
         },
@@ -312,7 +312,7 @@
             "place": "ArunachalPradesh",
             "batch": "FTWEB-15",
             "profession": "Employed",
-            "price": 200,
+            "price": 1234,
             "quantity": 1,
             "status": false
         },
@@ -323,7 +323,7 @@
             "place": "KGF",
             "batch": "FTWEB-16",
             "profession": "Employed",
-            "price": 200,
+            "price": 456,
             "quantity": 1,
             "status": false
         }
