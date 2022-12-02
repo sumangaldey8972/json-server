@@ -113,7 +113,10 @@
             "age": 15,
             "place": "kolkata",
             "batch": "FTWEB-15",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 2,
@@ -121,7 +124,10 @@
             "age": 22,
             "place": "Reva",
             "batch": "FTWEB-16",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 3,
@@ -129,7 +135,10 @@
             "age": 26,
             "place": "Singur",
             "batch": "FTWEB-14",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 4,
@@ -137,7 +146,10 @@
             "age": 28,
             "place": "Burdwan",
             "batch": "FTWEB-13",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 5,
@@ -145,7 +157,10 @@
             "age": 22,
             "place": "Gujrat",
             "batch": "FTWEB-14",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 6,
@@ -153,7 +168,10 @@
             "age": 16,
             "place": "Delhi",
             "batch": "FTWEB-15",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 7,
@@ -161,7 +179,10 @@
             "age": 28,
             "place": "Gujrat",
             "batch": "FTWEB-16",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 8,
@@ -169,7 +190,10 @@
             "age": 16,
             "place": "Mumbai",
             "batch": "FTWEB-13",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 9,
@@ -177,7 +201,10 @@
             "age": 23,
             "place": "Burdwan",
             "batch": "FTWEB-14",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 10,
@@ -185,7 +212,10 @@
             "age": 28,
             "place": "Mumbai",
             "batch": "FTWEB-15",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 11,
@@ -193,7 +223,10 @@
             "age": 15,
             "place": "Mumbai",
             "batch": "FTWEB-16",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 12,
@@ -201,7 +234,10 @@
             "age": 22,
             "place": "Mumbai",
             "batch": "FTWEB-13",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 13,
@@ -209,7 +245,10 @@
             "age": 28,
             "place": "Andheri",
             "batch": "FTWEB-14",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 14,
@@ -217,7 +256,10 @@
             "age": 14,
             "place": "Laxmi Chitfund",
             "batch": "FTWEB-15",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 15,
@@ -225,7 +267,10 @@
             "age": 24,
             "place": "Andheri",
             "batch": "FTWEB-16",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 16,
@@ -233,7 +278,10 @@
             "age": 17,
             "place": "Andheri",
             "batch": "FTWEB-13",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 17,
@@ -241,7 +289,10 @@
             "age": 20,
             "place": "Bihar",
             "batch": "FTWEB-13",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 18,
@@ -249,7 +300,10 @@
             "age": 16,
             "place": "Delhi",
             "batch": "FTWEB-14",
-            "profession": "Student"
+            "profession": "Student",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 19,
@@ -257,7 +311,10 @@
             "age": 14,
             "place": "ArunachalPradesh",
             "batch": "FTWEB-15",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         },
         {
             "id": 20,
@@ -265,9 +322,13 @@
             "age": 14,
             "place": "KGF",
             "batch": "FTWEB-16",
-            "profession": "Employed"
+            "profession": "Employed",
+            "price": 200,
+            "quantity": 1,
+            "status": false
         }
     ],
+    "cart": [],
     "jobs": [
         {
             "id": 1,
