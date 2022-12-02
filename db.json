@@ -110,7 +110,7 @@
         {
             "id": 1,
             "name": "Sumangal Dey",
-            "age": 20,
+            "age": 15,
             "place": "kolkata",
             "batch": "FTWEB-15",
             "profession": "Student"
@@ -118,10 +118,26 @@
         {
             "id": 2,
             "name": "Pusparaj Patel",
-            "age": 25,
+            "age": 22,
             "place": "Reva",
             "batch": "FTWEB-16",
-            "profession": "Teacher"
+            "profession": "Employed"
+        },
+        {
+            "id": 3,
+            "name": "Tanmoy Bera",
+            "age": 26,
+            "place": "Singur",
+            "batch": "FTWEB-14",
+            "profession": "Student"
+        },
+        {
+            "id": 3,
+            "name": "Amit Sai",
+            "age": 28,
+            "place": "Burdwan",
+            "batch": "FTWEB-13",
+            "profession": "Employed"
         }
     ]
 }
