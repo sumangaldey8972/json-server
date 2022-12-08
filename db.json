@@ -344,5 +344,11 @@
             "email": "balaka@gmail.com",
             "password": "1234"
         }
-    ]
+    ],
+
+    "twite":[{
+        "id": 1,
+        "name":"sumangal",
+        "post" : "this is my first twite"
+    }]
 }
