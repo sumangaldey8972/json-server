@@ -333,14 +333,14 @@
         {
             "id": 1,
             "image": "https://i.pravatar.cc/300",
-            "full_name": "Sumangal Dey",
+            "name": "Sumangal Dey",
             "email": "suman@gmail.com",
             "password": "1234"
         },
         {
             "id": 2,
             "image": "https://i.pravatar.cc/300",
-            "full_name": "Bolaka Ghosh",
+            "name": "Bolaka Ghosh",
             "email": "balaka@gmail.com",
             "password": "1234"
         }
